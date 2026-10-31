@@ -1084,7 +1084,8 @@ blockquote footer span {
 }
 
 .whatsapp {
-    min-height: 42px
+    min-height: 42px;
+    background: var(--lime);
 }
 
 .micro-note {
